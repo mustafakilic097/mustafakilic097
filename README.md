@@ -13,15 +13,15 @@ Merhaba! Ben Mustafa. Yazılım geliştirme ve teknolojiye olan tutkum beni bura
 ## 🚀 Yetenekler
 
 - **Programlama Dilleri:**___[![My Skills](https://skillicons.dev/icons?i=dart,python,cs,java&theme=light)](https://skillicons.dev)
-- **Web Geliştirme:**________[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
-- **Framework'ler:**_________[![My Skills](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
-- **Veritabanları:**__________[![My Skills](https://skillicons.dev/icons?i=firebase,mysql&theme=light)](https://skillicons.dev)
+- **Web Geliştirme:**________[![My Skills](https://skillicons.dev/icons?i=html,css,js,django&theme=light)](https://skillicons.dev)
+- **Framework'ler:**_________[![My Skills](https://skillicons.dev/icons?i=flutter,django&theme=light)](https://skillicons.dev)
+- **Veritabanları:**__________[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,sqlite&theme=light)](https://skillicons.dev)
 - **Versiyon Kontrol:**______[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 
 
 ## 🌱 Şu Anda Öğrenmekte Olduğum
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://skillicons.dev)
 
 
 
