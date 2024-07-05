@@ -2,7 +2,7 @@
 
 ## Hakkımda
 
-Merhaba! Ben Mustafa. Yazılım geliştirme ve teknolojiye olan tutkum beni buraya getirdi. Şu an aktif olarak projelerde Mobil Uygulama Geliştirici olarak rol alıyorum. Yenilikçi projelerde çalışmayı ve açık kaynaklı yazılım topluluğuna katkıda bulunmayı seviyorum.
+Merhaba! Ben Mustafa. Yazılım geliştirme ve teknolojiye olan tutkum beni buraya getirdi. Şu an aktif olarak projelerde Full Stack Geliştirici olarak rol alıyorum. Yenilikçi projelerde çalışmayı ve açık kaynaklı yazılım topluluğuna katkıda bulunmayı seviyorum.
 
 ## 📫 İletişim
 
@@ -13,11 +13,21 @@ Merhaba! Ben Mustafa. Yazılım geliştirme ve teknolojiye olan tutkum beni bura
 ## 🚀 Yetenekler
 
 - **Programlama Dilleri:**___[![My Skills](https://skillicons.dev/icons?i=dart,python,cs,java&theme=light)](https://skillicons.dev)
-- **Web Geliştirme:**________[![My Skills](https://skillicons.dev/icons?i=html,css,js,django&theme=light)](https://skillicons.dev)
+- **Web Geliştirme:**________[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light)](https://skillicons.dev)
 - **Framework'ler:**_________[![My Skills](https://skillicons.dev/icons?i=flutter,django&theme=light)](https://skillicons.dev)
-- **Veritabanları:**__________[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,sqlite&theme=light)](https://skillicons.dev)
+- **Veritabanları:**__________[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb&theme=light)](https://skillicons.dev)
 - **Versiyon Kontrol:**______[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 
+## 📱 Geliştirdiğim Uygulamalar
+<table align="center">
+        <tbody><tr>
+            <td><a href="https://github.com/mustafakilic097/kitapla"><img width="180" src="https://github.com/mustafakilic097/mustafakilic097/assets/89447012/3db94dd6-f759-4eaa-9b83-3e71aad1a7f0" style="max-width: 100%;"></a></td>
+            <td><a href="https://github.com/mustafakilic097/kitapla"><img width="180" src="https://github.com/mustafakilic097/mustafakilic097/assets/89447012/9c4d86ea-b7aa-4776-8c89-72c8963b94c7" style="max-width: 100%;"></a></td>
+            <td><a href="https://github.com/mustafakilic097/kitapla"><img width="180" src="https://github.com/mustafakilic097/mustafakilic097/assets/89447012/2a266ba8-17e8-4b5a-ad7d-dafc2230d725" style="max-width: 100%;"></a></td>
+            <td><a href="https://github.com/mustafakilic097/kitapla"><img width="180" src="https://github.com/mustafakilic097/mustafakilic097/assets/89447012/4a4170ca-b849-437d-8291-786a375323a6" style="max-width: 100%;"></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ## 🌱 Şu Anda Öğrenmekte Olduğum
 
@@ -30,9 +40,10 @@ Merhaba! Ben Mustafa. Yazılım geliştirme ve teknolojiye olan tutkum beni bura
 Eğer ilginç bir proje veya işbirliği fırsatı varsa, benimle iletişime geçmekten çekinmeyin!
 
 ## 📊 GitHub İstatistikleri
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mustafakilic097&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mustafakilic097&show_icons=true&count_private=true&hide=prs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakilic097&show_icons=true&layout=compact&count_private=true&hide=prs&theme=radical)
 
 
 
